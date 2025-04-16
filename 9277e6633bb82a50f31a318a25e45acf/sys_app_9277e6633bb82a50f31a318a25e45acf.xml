@@ -32,16 +32,16 @@
         <sys_created_by>Admin1</sys_created_by>
         <sys_created_on>2025-04-15 12:47:31</sys_created_on>
         <sys_id>9277e6633bb82a50f31a318a25e45acf</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-04-16 02:37:08</sys_updated_on>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_updated_by>wakako.buck@snc</sys_updated_by>
+        <sys_updated_on>2025-04-16 03:25:01</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
         <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>0.0.0-CONVERTED</version>
+        <version>1.1.0</version>
     </sys_app>
     <sys_translated_text action="delete_multiple" query="documentkey=9277e6633bb82a50f31a318a25e45acf"/>
 </record_update>
